@@ -21,7 +21,7 @@ function Contact() {
   }
 
   const contactInfo = [
-    { icon: FaWhatsapp , title:'WhatsApp', details:'+234 800 000 0000', action:'https://wa.me/2347074171697', actionText:'Chat Now' },
+    { icon: FaWhatsapp , title:'WhatsApp', details:'+234 800 000 0000', action:'https://wa.me/2348000000000', actionText:'Chat Now' },
     { icon: MdOutlineMail, title:'Email', details:'info@thedigitalartistpush.com', action:'mailto:info@thedigitalartistpush.com', actionText:'Send Email' },
     { icon: CiLocationOn, title:'Location', details:'Lagos, Nigeria\nServing artists worldwide', action:'#', actionText:'Get Directions' },
     { icon: IoIosTime, title:'Business Hours', details:'Mon-Fri: 9AM-6PM\nSat: 10AM-4PM\nSun: Closed', action:'#', actionText:null },
