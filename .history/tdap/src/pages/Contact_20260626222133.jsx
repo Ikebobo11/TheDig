@@ -44,7 +44,7 @@ function Contact() {
     {
       icon: FaWhatsapp,
       title: "WhatsApp",
-      details: "234 707 417 1697",
+      details: "234 7074171697",
       action: "https://wa.me/2347074171697",
       actionText: "Chat Now",
     },
